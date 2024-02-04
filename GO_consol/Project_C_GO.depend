@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1672444874 source:d:\projet c\project_c_go\f_affichage_menu_premier.c
+
+1672438339 d:\projet c\project_c_go\f_affichage_menu_premier.h
+
+1672503317 source:d:\projet c\project_c_go\main.c
+	<stdio.h>
+	<stdlib.h>
+	"f_affichage_menu_premier.h"
+	"menu_principale.h"
+	"menu_jouer_une_partie.h"
+	"menu_savoir_plus.h"
+	"affichage_goban.h"
+
+1672445973 source:d:\projet c\project_c_go\f_menu_principale.c
+
+1672444745 d:\projet c\project_c_go\menu_principale.h
+
+1672446166 d:\projet c\project_c_go\menu_jouer_une_partie.h
+
+1672447776 source:d:\projet c\project_c_go\f_menu_jouer_une_partie.c
+
+1672449062 source:d:\projet c\project_c_go\f_menu_savoir_plus.c
+
+1672449110 d:\projet c\project_c_go\menu_savoir_plus.h
+
+1672503176 d:\projet c\project_c_go\affichage_goban.h
+
